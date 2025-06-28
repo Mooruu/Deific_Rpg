@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\CPP_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|solutionrelative:CPP_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|solutionrelative:Map.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Reynar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Reynar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\EnemyCharacteristicsBase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EnemyCharacteristicsBase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\WeaponCharacteristicsBase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WeaponCharacteristicsBase.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|solutionrelative:Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Fight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D4061883-91B4-4033-8031-57A026985DA1}|CPP_Project.vcxproj|solutionrelative:Fight.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:json.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "json.hpp",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\json.hpp",
+              "RelativeDocumentMoniker": "json.hpp",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\json.hpp",
+              "RelativeToolTip": "json.hpp",
+              "ViewState": "AgIAAIdiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-27T20:28:25.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reynar.json",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Reynar.json",
+              "RelativeDocumentMoniker": "Reynar.json",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Reynar.json",
+              "RelativeToolTip": "Reynar.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-28T07:36:37.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyCharacteristicsBase.json",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\EnemyCharacteristicsBase.json",
+              "RelativeDocumentMoniker": "EnemyCharacteristicsBase.json",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\EnemyCharacteristicsBase.json",
+              "RelativeToolTip": "EnemyCharacteristicsBase.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-20T00:26:39.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeaponCharacteristicsBase.json",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\WeaponCharacteristicsBase.json",
+              "RelativeDocumentMoniker": "WeaponCharacteristicsBase.json",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\WeaponCharacteristicsBase.json",
+              "RelativeToolTip": "WeaponCharacteristicsBase.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T17:44:17.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Map.h",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Map.h",
+              "RelativeDocumentMoniker": "Map.h",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Map.h",
+              "RelativeToolTip": "Map.h",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAqwIoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-18T09:24:43.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Fight.h",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Fight.h",
+              "RelativeDocumentMoniker": "Fight.h",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Fight.h",
+              "RelativeToolTip": "Fight.h",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T19:45:35.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Person.h",
+              "RelativeDocumentMoniker": "Person.h",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\Person.h",
+              "RelativeToolTip": "Person.h",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAqwNsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T16:08:50.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPP_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\CPP_Project.cpp",
+              "RelativeDocumentMoniker": "CPP_Project.cpp",
+              "ToolTip": "C:\\Users\\Marat\\Desktop\\Deific_RPG\\Deific_RPG\\CPP_Project.cpp",
+              "RelativeToolTip": "CPP_Project.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T15:51:05.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

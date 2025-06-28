@@ -1,0 +1,7 @@
+﻿  CPP_Project.cpp
+D:\Microsoft\VC\Tools\MSVC\14.44.35207\include\string_view(12): warning STL4038: The contents of <string_view> are available only with C++17 or later.
+C:\Users\Marat\Desktop\Deific_RPG\Deific_RPG\Person.h(34,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "CPP_Project.cpp")
+  
+C:\Users\Marat\Desktop\Deific_RPG\Deific_RPG\Map.h(353,1): warning C4715: Walking::Walk: значение возвращается не при всех путях выполнения
+  CPP_Project.vcxproj -> C:\Users\Marat\Desktop\Deific_RPG\Deific_RPG\x64\Debug\CPP_Project.exe
